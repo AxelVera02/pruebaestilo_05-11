@@ -7,7 +7,7 @@ body {
 }
 
 header h1 {
-    animation: aparecer 2s ease-in-out;
+    animation: aparecer 5s ease-in-out;
 }
 
 header {
@@ -69,3 +69,4 @@ footer {
         transform: translateY(0);
     }
 }
+
